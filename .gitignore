@@ -1,0 +1,6 @@
+.idea
+*.elf
+*.d
+*.elf.map
+*.hex
+*.o
